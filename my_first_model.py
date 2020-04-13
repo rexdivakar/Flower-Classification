@@ -30,10 +30,10 @@ print(input_shape)
 # In[4]:
 
 
-path="C:\\Users\\rexdi\\Desktop\\flowers\\"
+#path="C:\\Users\\rexdi\\Desktop\\flowers\\"
 
-train_dir=path+'\\Train\\'
-valid_dir=path+'\\Valid'
+train_dir='./Train'
+valid_dir='./Test'
 
 epochs=10
 batch_size=100
